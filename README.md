@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 👾 Dita.exe
-> Sharing my learning journey as I navigate through the digital space that's constantly evolving
+> Sharing my learning journey as I navigate through the digital space that's constantly evolving.  
 > Marketing strategist by day  
 > Curious builder by night  
 
