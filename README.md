@@ -17,7 +17,7 @@ Leveling up in:
 - HTML, CSS
 - Growth experiments w/ my plants
 
-## Side Missions
+## Side Quest
 - Exploring brands strategy
 - Learning new tools
 - Dreaming of adopting a new pet
