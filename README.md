@@ -13,11 +13,11 @@
 
 ## 🚀Current Quest
 Leveling up in:
-- VS Code
+- Making a website on VS Code
 - HTML, CSS
 - Growth experiments w/ my plants
 
 ## Side Quest
-- Exploring brands strategy
+- Exploring brands strategies
 - Learning new tools
 - Dreaming of adopting a new pet
