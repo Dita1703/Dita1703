@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Dita1703/Dita1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 Dita.exe
+>Sharing my learning journey as I navigate through the digital space that's constantly evolving
+> Marketing strategist by day  
+> Curious builder by night  
 
-Here are some ideas to get you started:
+## Stats
+- 🎯 Campaign Optimization: +++
+- 📈 Data Analysis: +++
+- 🧠 Strategy Thinking: +++
+- ☕ Coffee Dependency: 98%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀Current Quest
+Leveling up in:
+- VS Code
+- HTML, CSS
+- Growth experiments w/ my plants
+
+## Side Missions
+- Exploring brands strategy
+- Learning new tools
+- Dreaming of adopting a new pet
